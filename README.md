@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to [OpenEMR](http://www.open-emr.org/)!!!
 =====================
 
@@ -12,3 +13,6 @@ other platforms.
 The setup documentation can be found in the INSTALL file and extensive
 documentation and forums can be found on the OpenEMR website at:
 <http://www.open-emr.org>
+=======
+# openemr
+>>>>>>> de8c9a14b9d9f1f8ebdca2892c776396be1c7174
